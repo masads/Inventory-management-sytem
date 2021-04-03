@@ -1,4 +1,4 @@
-# Inventory -management-system
+# Inventory-management-system
  
 # C based project
 It is an Inventory -management-system build in C language by using the file system, dynamic memory allocation and pointers.
